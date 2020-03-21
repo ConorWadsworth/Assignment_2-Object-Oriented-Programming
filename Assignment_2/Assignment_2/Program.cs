@@ -32,9 +32,9 @@ namespace Assignment_2
                 }
             }
 
-            if (choice == "2") //Comparison between the two chosen files
+            if (choice == "2") 
             {
-                if (git_2a == git_2b)
+                if (git_2a == git_2b) //Comparison between the two chosen files
                 {
                     Console.WriteLine("They are the same"); //One of the results of the comparison
                 }
@@ -44,9 +44,9 @@ namespace Assignment_2
                 }
             }
 
-            if (choice == "3") //Comparison between the two chosen files
+            if (choice == "3") 
             {
-                if (git_3a == git_3b)
+                if (git_3a == git_3b) //Comparison between the two chosen files
                 {
                     Console.WriteLine("They are the same"); //One of the results of the comparison
                 }
